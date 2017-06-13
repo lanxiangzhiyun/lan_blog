@@ -1,3 +1,3 @@
-# zhenhua-lee.github.io
+# lanxiangzhiyun.github.io
 it is my blog 
-[click here](http://zhenhua-lee.github.io)
+[click here](http://lanxiangzhiyun.github.io)
