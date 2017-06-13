@@ -7,14 +7,14 @@
 
 # Site settings
 title: 前端之路 - DRY
-email: lizhenhua230@gmail.com
+email: 510940958@qq.com
 description: >
  记录前端之路的点点滴滴，不贪多，不急躁!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://zhenhua-lee.github.io" # the base hostname & protocol for your site
-github_username:  zhenhua-lee
-weibo: http://weibo.com/dry230
-zhihu: http://www.zhihu.com/people/zhenhua.lee
+url: "http://lanxiangzhiyun.github.io" # the base hostname & protocol for your site
+github_username:  lanxiangzhiyun
+weibo: 
+zhihu: 
 
 permalink: none
 # Build settings
