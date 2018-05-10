@@ -10,7 +10,7 @@ title: 前端之路 - DRY
 email: 510940958@qq.com
 description: >
  记录前端之路的点点滴滴，不贪多，不急躁!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lan_blog" # the subpath of your site, e.g. /blog
 url: "http://lanxiangzhiyun.github.io" # the base hostname & protocol for your site
 github_username:  lanxiangzhiyun
 weibo: 
@@ -22,7 +22,7 @@ markdown: kramdown
 
 gems: [jekyll-paginate]
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/lan_blog/page:num/"
 
 defaults:
   -
